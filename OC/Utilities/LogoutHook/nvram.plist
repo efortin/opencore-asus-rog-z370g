@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add</key>
+	<dict>
+		<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+		<dict>
+			<key>EFIBluetoothDelay</key>
+			<data>
+			uAs=
+			</data>
+			<key>EFILoginHiDPI</key>
+			<data>
+			AAAAAA==
+			</data>
+			<key>SystemAudioVolume</key>
+			<data>
+			QQ==
+			</data>
+			<key>SystemAudioVolumeDB</key>
+			<data>
+			8A==
+			</data>
+			<key>bluetoothActiveControllerInfo</key>
+			<data>
+			jYKsBQAAADCCFIhj35ihgg==
+			</data>
+			<key>bluetoothInternalControllerInfo</key>
+			<data>
+			jYKsBQAwghSIY9+YoYI=
+			</data>
+			<key>boot-args</key>
+			<string>slide=0 darkwake=0 debug=0x100 keepsyms=1 uia_exclude=HS01;HS02;HS08;HS13;HS14;SS02;SS08;SS09;SS10;USR1;USR2</string>
+			<key>bootercfg</key>
+			<data>
+			bG9nPTAgZGVidWc9MCBsZXZlbD0wIGtjLXJlYWQtc2l6ZT0weDEw
+			MDAwMCkA
+			</data>
+			<key>csr-active-config</key>
+			<data>
+			ZwAAAA==
+			</data>
+			<key>flagstate</key>
+			<data>
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>fmm-computer-name</key>
+			<data>
+			aU1hYyBQcm8=
+			</data>
+			<key>security-mode</key>
+			<string>none</string>
+			<key>specialbootdevice</key>
+			<data>
+			AgEMANBBAwoAAAAAAQEGAAAbAQEGAAAAAxcQAAEAAAAAJThbgbNS
+			HwQBKgACAAAAKEAGAAAAAABgkjV3AAAAADc42HJqnddDhVwwWDV1
+			QosCAgQDJAD3/HS+fAvzSZFHAfQELmhCXOWlpQWbXEiOANErUPA3
+			U3//BAA=
+			</data>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
